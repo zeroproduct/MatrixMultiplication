@@ -5,12 +5,10 @@ Implemented two different matrix multiplication algorithms, then compared their 
 The first method is the standard algorithm, where we iterate through 3 levels of the matrix using for loops, which should result in an O(n^3) runtime. The second method we use, Strassen’s algorithm, utilizes only 7 comparrisons rather than 8, which should result in an O(n^2.807) runtime. 
 
 
-Standard Algorithm:
-
+Standard Algorithm:   
 ![Alt text](http://i.imgur.com/zdl20mq.jpg "Standard Algorithm")
 
-Strassen's Algorithm:
-
+Strassen's Algorithm:   
 ![Alt text](http://i.imgur.com/1xyW6Jq.jpg "Strassen's Algorithm")
 
 (Images taken from [Wikipedia](https://en.wikipedia.org/wiki/Strassen_algorithm))

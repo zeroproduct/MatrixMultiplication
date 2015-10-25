@@ -9,8 +9,7 @@ Standard Algorithm:
 ![Alt text](http://i.imgur.com/zdl20mq.jpg "Standard Algorithm")
 
 Strassen's Algorithm:   
-![Alt text](http://i.imgur.com/1xyW6Jq.jpg "Strassen's Algorithm")
-
+![Alt text](http://i.imgur.com/1xyW6Jq.jpg "Strassen's Algorithm")   
 (Images taken from [Wikipedia](https://en.wikipedia.org/wiki/Strassen_algorithm))
 
 
